@@ -137,23 +137,6 @@ body{
   width: 150px;
   height: 150px;
 }
-.carousel-indicators{
-  bottom: -50px;
-}
-
-.carousel-indicators  button{
-  width: 10px !important;
-  height: 10px !important;
-  border-radius: 50%;
-  background-color: #0d6efd;
-  border: none;
-  margin: 0 5px;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
-}
-
 
 
 .card-body .card-type{
